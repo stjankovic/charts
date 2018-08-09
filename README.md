@@ -6,8 +6,8 @@ This project was generated with [Chart.js](https://github.com/chartjs) version 2
 ## How to setup
 
 Clone the repository:
-> git clone https://github.com/sweex992/charts.git
->git clone git@github.com:sweex992/charts.git
+> git clone https://github.com/stjankvic/charts.git
+>git clone git@github.com:stjankvic/charts.git
 
 Install Angular
 >npm install -g @angular/cli
